@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/lschwall/vibeTribe_store#readme",
   "dependencies": {
     "eslint": "^7.20.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
   }
 }

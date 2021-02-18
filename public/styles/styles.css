@@ -1,0 +1,23 @@
+.home {
+	margin-top: 10%;
+	display: flex;
+	justify-content: left;
+	height: 500px;
+	width: 100%;
+}
+
+.about {
+	display: flex;
+	justify-content: left;
+	background-color: #1F3C5F;
+	height: 800px;
+	width: 100%;
+}
+
+.merch {
+	display: flex;
+	justify-content: left;
+	background-color: #7192A6;
+	height: 800px;
+	width: 100%;
+}
